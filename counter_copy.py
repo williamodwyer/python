@@ -10,3 +10,5 @@ for letter in word:
     counter[letter] += 1
 
 print(counter)
+
+print("Pretty cool right")
